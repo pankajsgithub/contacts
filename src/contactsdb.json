@@ -1,0 +1,24 @@
+{
+    "contacts": [
+        {
+            "id": "1",
+            "name" : "Crystal",
+            "email" : "crystal@mail.ht"
+        },
+        {
+            "id": "2",
+            "name" : "Pankaj",
+            "email" : "pankaj@mail.ht"
+        },
+        {
+            "id": "3",
+            "name" : "Fire",
+            "email" : "Fire@mail.ht"
+        },
+        {
+            "id": "4",
+            "name" : "Soul",
+            "email" : "Soul@mail.ht"
+        }
+    ]
+}
